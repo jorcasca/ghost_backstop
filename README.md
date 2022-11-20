@@ -21,3 +21,5 @@ The new version used was Ghost version: 5.23.0 and old version was 3.42.
 ## Results
 
 Inside the .\backstop_data\html_report you will find the comparison screenshots and the corresponding report.
+
+![image](https://user-images.githubusercontent.com/31069035/202921966-8c15d405-36f7-4e11-a203-943a4c493584.png)
